@@ -1,0 +1,1 @@
+web guncicorn my blogproj.wsgi:application --log-file -
